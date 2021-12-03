@@ -1,5 +1,7 @@
 # SvelteKit Pokedex
 
+A pokedex of the first 150 pokemon. Using [PokeAPI](https://pokeapi.co/).
+
 ## Developing
 
 Install the dependencies with `npm install`, start a development server:

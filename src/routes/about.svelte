@@ -1,9 +1,9 @@
 <script>
-	import Title from '../components/title.svelte';
+  import Title from '../components/title.svelte';
 </script>
 
 <svelte:head>
-	<title>About - SvelteKit Pokedex</title>
+  <title>About - SvelteKit Pokedex</title>
 </svelte:head>
 
 <Title title="About" />
